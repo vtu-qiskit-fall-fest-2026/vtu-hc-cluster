@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Cluster** · Team ID `VTU-QFF-HC-0047` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Cluster)
+[⬆ Back to Top](#cluster)
 
 </div>
